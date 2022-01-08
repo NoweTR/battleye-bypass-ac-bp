@@ -3,7 +3,7 @@ BattlEye Server Blocker )
 
 HOW TO USE?
 ```.bat run administrator only match island```
-After match,win or die run administrator cmd and writte ```netsh advfirewall reset``` copy paste console and enter. Unblock done.
+After match,win or die run administrator cmd and copy ```netsh advfirewall reset``` code paste console and enter. Unblock server's done.
 
 Bunun amacı BattlEye kullanan oyunlarda Gelen,Giden,TCP,UDP Ve hosts ile belirli bağlantı noktalarını ve sunucuları engellemek. Oyun içi ban tarzı sorunların önüne geçebilir.
 
