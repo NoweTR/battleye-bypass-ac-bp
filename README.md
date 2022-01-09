@@ -1,7 +1,8 @@
 # battleye-bypass-ac-bp
 BattlEye Server Blocker )
-
+EDİT runmatchadmin.bat file and save!
 HOW TO USE?
+EDİT runmatchadmin.bat file and save!
 ```.bat run administrator only match island```
 After match,win or die run administrator cmd and copy ```netsh advfirewall reset``` code paste console and enter. Unblock server's done.
 
